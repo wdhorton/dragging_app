@@ -1,0 +1,3 @@
+ItemTypes = {
+  CARD: 'card'
+};
